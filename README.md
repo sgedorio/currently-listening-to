@@ -1,4 +1,4 @@
-![Alt text](/img/screenshot1.png?raw=true "Currently-Listening-To")
+![Alt text](/img/screenshot.png?raw=true "Currently-Listening-To")
 
 https://sgedorio.github.io/currently-listening-to/
 
